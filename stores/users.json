@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Dhananjay",
+    "profile_url": "http://www.google.com/1",
+    "username": "dhananjay",
+    "age": 32
+  },
+  {
+    "id": 2,
+    "name": "Foo",
+    "profile_url": "http://www.getpostman.com/2",
+    "username": "foo",
+    "age": 33
+  },
+  {
+    "id": 3,
+    "name": "Bar",
+    "profile_url": "http://www.google.com/3",
+    "username": "bar",
+    "age": 25
+  },
+  {
+    "id": 4,
+    "name": "Larry",
+    "profile_url": "http://www.getpostman.com/4",
+    "username": "larry",
+    "age": 30
+  }
+]
